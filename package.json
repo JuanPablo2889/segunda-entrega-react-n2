@@ -1,5 +1,5 @@
 {
-    "name": "Packaging-Express",
+    "name": "packaging",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
